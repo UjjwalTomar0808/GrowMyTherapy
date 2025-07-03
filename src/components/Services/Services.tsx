@@ -40,7 +40,7 @@ const Services = () => {
                                 imgSrc={relationship}
                                 imgAlt=""
                                 headingText="Relationship Counseling"
-                                paraText="Healthy relationships take work—but they shouldn’t feel impossible. Whether you're navigating conflict, recovering from betrayal, or simply feeling distant, we offer guidance to improve communication, restore trust, and rebuild meaningful connection between partners, families, or friends."
+                                paraText="Healthy relationships take work—but they shouldn’t feel impossible. Whether you&apos;re navigating conflict, recovering from betrayal, or simply feeling distant, we offer guidance to improve communication, restore trust, and rebuild meaningful connection between partners, families, or friends."
                             />
                         </FadeInSection>
                     </li>

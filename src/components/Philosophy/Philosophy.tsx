@@ -10,7 +10,7 @@ const Philosophy = () => {
             </FadeInSection >
             <FadeInSection delay={300}>
                 <p className="font-freight-sans-pro-light mt-4 text-md sm:text-lg leading-loose md:leading-8">
-                    You may be led to therapy by anxiety, depression, relationship stress, past or recent trauma, grief and loss, self-esteem issues, or challenges with family, parenting, or parental relationships. Whatever the source of your stress, you don't have to face it alone. Therapy offers you the time and space to work toward wellness and peace.
+                    You may be led to therapy by anxiety, depression, relationship stress, past or recent trauma, grief and loss, self-esteem issues, or challenges with family, parenting, or parental relationships. Whatever the source of your stress, you don&apos;t have to face it alone. Therapy offers you the time and space to work toward wellness and peace.
                 </p>
             </FadeInSection >
         </section>
